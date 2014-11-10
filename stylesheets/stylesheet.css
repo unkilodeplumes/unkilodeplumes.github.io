@@ -201,12 +201,12 @@ ul, ol, dl {
 /* COMMON STYLES */
 
 hr {
-  height: 1px;
-  line-height: 1px;
+  height: 5px;
+  line-height: 5px;
   margin-top: 1em;
   padding-bottom: 1em;
   border: none;
-  background: transparent url('../images/hr.png') 50% 0 no-repeat;
+  background-color: rgb(170, 210, 170);
 }
 
 strong {
