@@ -90,10 +90,10 @@ header h2 {
 }*/
 
 .inner {
-  width: 830px;
+  width: 860px;
   background: #e7e7e7 url(../images/body-bg.png) 0 0 repeat;
   margin: 0 auto;
-  padding: 0 45px;
+  padding: 0 60px;
 }
 
 #container .inner img {
