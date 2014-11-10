@@ -201,11 +201,11 @@ ul, ol, dl {
 /* COMMON STYLES */
 
 hr {
-  height: 5px;
+  line-height: 10px;
   width: 860px;
   margin-top: 1em;
   border: none;
-  background-color: rgb(170, 210, 170);
+  color: rgb(170, 210, 170);
 }
 
 strong {
