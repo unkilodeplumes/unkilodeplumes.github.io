@@ -201,8 +201,9 @@ ul, ol, dl {
 /* COMMON STYLES */
 
 hr {
-  height: 5px;
-  line-height: 5px;
+  height: 3px;
+  line-height: 3px;
+  width: 760px;
   margin-top: 1em;
   padding-bottom: 1em;
   border: none;
