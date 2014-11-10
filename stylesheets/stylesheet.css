@@ -201,11 +201,9 @@ ul, ol, dl {
 /* COMMON STYLES */
 
 hr {
-  height: 3px;
-  line-height: 3px;
-  width: 760px;
+  height: 5px;
+  width: 860px;
   margin-top: 1em;
-  padding-bottom: 1em;
   border: none;
   background-color: rgb(170, 210, 170);
 }
