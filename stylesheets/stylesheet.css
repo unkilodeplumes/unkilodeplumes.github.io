@@ -202,11 +202,11 @@ ul, ol, dl {
 
 hr {
   height: 10px;
-  width: 880px;
+  width: 1000px;
   margin-top: 1em;
   border: none;
   background-color: rgb(170, 210, 170);
-  margin-left: -60px;
+  margin-left: -100px;
 }
 
 strong {
