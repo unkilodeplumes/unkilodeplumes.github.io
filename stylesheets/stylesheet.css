@@ -87,8 +87,8 @@ header h2 {
 .inner {
   width: 860px;
   background: rgb(255,255,255);
-  margin: 25px auto;
-  padding: 5px 60px;
+  margin: 0px auto;
+  padding: 35px 60px;
 }
 
 #container .inner img {
