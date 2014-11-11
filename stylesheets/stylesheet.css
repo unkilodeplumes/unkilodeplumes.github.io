@@ -50,7 +50,7 @@ table {
 body {
   font-size: 1.2em;
   line-height: 1.5; 
-  background: url('https://cloud.githubusercontent.com/assets/8693066/5001242/4f3ead58-69f4-11e4-96f7-a9ebf36f62dd.png') repeat;
+  background: url('https://cloud.githubusercontent.com/assets/8693066/5001242/4f3ead58-69f4-11e4-96f7-a9ebf36f62dd.png') repeat fixed;
   font-family: 'Helvetica Neue', Helvetica, Arial, serif;
   /*text-shadow: 0 1px 0 rgba(255, 255, 255, 0.8);*/
   color: #303030;
