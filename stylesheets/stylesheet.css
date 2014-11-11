@@ -50,7 +50,7 @@ table {
 body {
   font-size: 1.2em;
   line-height: 1.5; 
-  background: rvb(203,251,204);
+  background: rgb(203,251,204);
   font-family: 'Helvetica Neue', Helvetica, Arial, serif;
   /*text-shadow: 0 1px 0 rgba(255, 255, 255, 0.8);*/
   color: #303030;
