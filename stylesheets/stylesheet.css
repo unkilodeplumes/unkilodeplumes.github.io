@@ -50,9 +50,10 @@ table {
 body {
   font-size: 1.2em;
   line-height: 1.5; 
+  background: rvb(203,251,204);
   font-family: 'Helvetica Neue', Helvetica, Arial, serif;
   /*text-shadow: 0 1px 0 rgba(255, 255, 255, 0.8);*/
-  color: #ccfbccff;
+  color: #303030;
 }
 
 a {
@@ -200,7 +201,7 @@ hr {
   width: 1100px;
   margin: 25px -100px;
   border: none;
-  background-color: rgb(170, 210, 170);
+  background-color: rgb(203, 251, 204);
 }
 
 strong {
