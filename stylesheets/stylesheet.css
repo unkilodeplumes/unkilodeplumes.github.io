@@ -63,6 +63,10 @@ a:hover {
   color: #c5000c;
 }
 
+header {
+  margin-bottom: 30px;
+}
+
 header h1 {
   font-family: 'Chivo', 'Helvetica Neue', Helvetica, Arial, serif; font-weight: 900;
   letter-spacing: -1px;
