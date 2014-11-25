@@ -50,10 +50,9 @@ table {
 body {
   font-size: 1.2em;
   line-height: 1.5; 
-  background: rgb(225,225,225) repeat fixed;
+  background: dfdfdfff&noise=737373 density=36 opacity=15
   font-family: 'Helvetica Neue', Helvetica, Arial, serif;
   /*text-shadow: 0 1px 0 rgba(255, 255, 255, 0.8);*/
-  color: #303030;
 }
 
 a {
