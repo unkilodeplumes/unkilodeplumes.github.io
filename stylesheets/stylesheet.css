@@ -50,7 +50,7 @@ table {
 body {
   font-size: 1.2em;
   line-height: 1.5; 
-  background:src="images/body-bg.png" repeat fixed;
+  background="images/body-bg.png" repeat fixed;
   font-family: 'Helvetica Neue', Helvetica, Arial, serif;
   /*text-shadow: 0 1px 0 rgba(255, 255, 255, 0.8);*/
 }
