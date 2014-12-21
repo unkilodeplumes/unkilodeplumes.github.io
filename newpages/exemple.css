@@ -1,0 +1,122 @@
+body{
+	margin: 0px 0px; /* Marge hautes et basses 0px et marges gauche et droite 0 */
+	padding: 0 ;
+	text-align: left ;
+	background: url(fond-blanc3.png) repeat fixed ;
+}
+	
+div#logo{
+	position:top;
+	margin:10px 15px;
+	width:250px;
+}
+	
+div#menu{
+	position: fixed;
+	top:100px;
+	bottom:0;
+	left:0px;
+	width: 250px ;
+	/*background: rgb(51,51,51) ;*/
+	color: white ;
+	padding: 0px 0 ;
+}
+	
+#isso-thread{
+	font: 20px "Trebuchet MS" ;
+	position:fixed;
+	top:10px;
+	bottom:0;
+	right:10px;
+	width:550px ;
+	padding: 5px 0;
+}
+	
+article {
+	/*font: 20px "Trebuchet MS" ;*/
+	clear: both;
+	background-image: url(noise3.png);
+	background-color: rgba(255,255,255,0.5);
+	font-size: 18px;
+	padding: 20px 20px ;
+	width:600px;
+	margin-left:90px ;	
+	text-align: justify;
+	
+
+	/*font-family: "Lucida Grande", sans-serif;
+	font-size: 21px;
+	font-style: normal;
+	font-weight: normal;
+	text-transform: normal;
+	letter-spacing: -1px;
+	line-height: 1.4em;*/
+}
+
+
+/* Outil MENU */
+
+.accordion {
+	width: 250px;
+	margin: 0;
+}
+
+.accordion h1, h2, h3, h4 {
+	cursor: pointer;
+	margin: 0; padding: 0;
+}
+
+.accordion h2, h3, h4 {
+	font-family: "News Cycle";
+}
+	
+.accordion h1 {
+	clear:both;
+	padding: 5px 0px;
+	margin: 0px 0;
+	margin-left: 10px;
+	/*background: url(menu-border/border1.png) no repeat;*/
+	font-family: "Lucida Sans Unicode", sans-serif;
+	font-size: 1.2rem;
+	text-align: left;
+	color: transparent;
+}
+	
+.accordion h1:hover {
+	background-color: rgb(183,216,151);
+	color:white;
+}
+
+.accordion div, .accordion p {
+	display: none;
+}
+
+.accordion h2 {
+	padding: 5px 3px;
+	margin-left: 10px;
+	background-color:rgba(255,255,255,0.8);
+	font-family: "Lucida Sans Unicode", sans-serif;
+	font-size: 1.1rem;
+	color: black;
+	border-left:10px solid rgba(201,155,55,0.8);
+	border-right:10px solid rgba(201,155,55,0.8);
+}
+	
+.accordion h2:hover {
+	background-color: rgb(201,155,55);
+}
+
+.accordion h3 {
+	padding: 5px 3px;
+	margin-left: 50px;
+	background-color:rgba(255,255,255,0.8);
+	font-family: "Lucida Sans Unicode", sans-serif;
+	font-size: 1rem;
+	color: black; 
+	border-left:10px solid rgba(226,87,62,0.8);
+	border-right:10px solid rgba(226,87,62,0.8);
+}
+	
+.accordion h3:hover {
+	background-color: rgb(226,87,62);
+}
