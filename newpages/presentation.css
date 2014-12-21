@@ -21,10 +21,6 @@ article {
 	width: 60%;
 	text-align: justify;		
 }
-
-article p {
-	padding: 0 20px;
-}
 	
 article h1{
 	padding: 6px 0 4px 16px;
@@ -39,8 +35,17 @@ article h2 {
 	padding-left: 12px;
 }
 
+article p {
+	padding: 5px 20px 5px 20px;
+	font-weight: 300;
+}
+
 article p strong {
 	font-weight: bold;
+}
+
+article blockquote {
+	font-size: 20px;
 }
 
 #isso-thread {
@@ -85,11 +90,6 @@ div#cadre2{
 	padding: 5px 5px;
 	margin: 15px 15px;
 	border: 3px solid grey;
-}
-	
-p {
-	font-weight: 300;
-	margin-bottom: 20px;
 }
 	
 .f_left {
