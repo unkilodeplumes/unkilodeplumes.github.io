@@ -6,6 +6,12 @@ body{
 	font-size: 16px;
 	background: url(fond-blanc3.png) repeat fixed;
 }
+	
+div#logo {
+	position: top;
+	margin: 10px 15px;
+	width: 250px;
+}
 
 article {
 	color: #1d1d1b;
@@ -20,12 +26,19 @@ article p {
 	padding: 0 20px;
 }
 	
-div#logo {
-	position: top;
-	margin: 10px 15px;
-	width: 250px;
+article h1{
+	padding: 6px 0 4px 16px;
+	font-family: "Mento_Regular", sans-serif;
+	font-size: 24px;
+	text-transform : uppercase;
+	background-color: rgb(172,226,88);
+	display:block;
 }
-	
+
+article h2 {
+	padding-left: 12px;
+}
+
 #isso-thread {
 	position: fixed;
 	top: 10px;
@@ -37,15 +50,6 @@ div#logo {
 	
 tuto{
 	left:100px;
-}
-	
-h1{
-	padding: 6px 0 4px 16px;
-	font-family: "Mento_Regular", sans-serif;
-	font-size: 24px;
-	text-transform : uppercase;
-	background-color: rgb(172,226,88);
-	display:block;
 }
 
 .gros_texte {
