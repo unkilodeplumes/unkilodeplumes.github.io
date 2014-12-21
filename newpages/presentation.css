@@ -12,13 +12,24 @@ body{
 	width: 60%;
 }
 	
-div#logo {
-	margin: 10px 15px;
-	width: 500px;
+div#logo img{
+	margin: 0 0;
+	width:50%;
+}
+
+div#encadre{
+	float:left;
+	width:30%;
+}
+
+div#twitter{
+	position:relative;
+	left:5%;
 }
 
 article {
 	color: #1d1d1b;
+	clear: both;
 	background-color: rgba(255,255,255,1);
 	text-align: justify;		
 }
