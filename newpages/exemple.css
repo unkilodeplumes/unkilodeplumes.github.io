@@ -8,6 +8,7 @@ body{
 div#logo{
 	position:top;
 	margin:10px 15px;
+	width:250px;
 }
 	
 div#menu{
