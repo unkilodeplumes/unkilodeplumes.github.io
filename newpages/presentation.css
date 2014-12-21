@@ -39,6 +39,10 @@ article h2 {
 	padding-left: 12px;
 }
 
+article p strong {
+	font-weight: bold;
+}
+
 #isso-thread {
 	position: fixed;
 	top: 10px;
