@@ -6,19 +6,20 @@ body{
 	font-size: 16px;
 	background: url(fond-blanc3.png) repeat fixed;
 }
+
+#page {
+	padding: 20px 2%;
+	width: 60%;
+}
 	
 div#logo {
-	position: top;
 	margin: 10px 15px;
-	width: 250px;
+	width: 500px;
 }
 
 article {
 	color: #1d1d1b;
 	background-color: rgba(255,255,255,1);
-	clear: both;
-	padding: 20px 2%;
-	width: 60%;
 	text-align: justify;		
 }
 	
