@@ -1,35 +1,37 @@
 body{
-	margin: 0px 0px; <!-- Marge hautes et basses 0px et marges gauche et droite 0 --> 
-	padding: 0 ;
-	text-align: left ;
-	background: url(fond-blanc3.png) repeat fixed ;
+	margin: 0;
+	padding: 0;
+	text-align: left;
+	font-family: "Mento_Regular", sans-serif;
+	font-size: 16px;
+	background: url(fond-blanc3.png) repeat fixed;
 }
 
 article {
-	font-family: "Mento_Regular", sans-serif;
-	font-size: 24px;
 	color: #1d1d1b;
 	background-color: rgba(255,255,255,1);
 	clear: both;
-	padding: 20px 20px ;
-	width:750px;
-	margin-left:150px ;	
+	padding: 20px 2%;
+	width: 60%;
 	text-align: justify;		
 }
-	
-div#logo{
-	position:top;
-	margin:10px 15px;
-	width:250px;
+
+article p {
+	padding: 0 20px;
 }
 	
-#isso-thread{
-	font: 20px "Trebuchet MS" ;
-	position:fixed;
-	top:10px;
-	bottom:0;
-	right:10px;
-	width:350px ;
+div#logo {
+	position: top;
+	margin: 10px 15px;
+	width: 250px;
+}
+	
+#isso-thread {
+	position: fixed;
+	top: 10px;
+	bottom: 0;
+	right: 2%;
+	width: 34%;
 	padding: 5px 0;
 }
 	
