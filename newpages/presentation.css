@@ -3,8 +3,13 @@ body{
 	padding: 0;
 	text-align: left;
 	font-family: "Mento_Regular", sans-serif;
-	font-size: 16px;
+	font-size: 18px;
 	background: url(fond-blanc3.png) repeat fixed;
+}
+
+strong{
+font-size:22px;
+color:rgb(68, 139, 0);
 }
 
 #page {
@@ -13,7 +18,7 @@ body{
 }
 	
 div#logo img{
-	margin: 0 0;
+	margin-bottom: 20px;
 	width:50%;
 }
 
@@ -30,20 +35,24 @@ div#twitter{
 article {
 	color: #1d1d1b;
 	clear: both;
-	background-color: rgba(255,255,255,1);
-	text-align: justify;		
+	background-color: rgb(253,253,253);
+	text-align: justify;
 }
 	
 article h1{
-	padding: 6px 0 4px 16px;
-	font-family: "Mento_Regular", sans-serif;
-	font-size: 24px;
+	padding: 10px 10px 4px 16px;
+	font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
 	text-transform : uppercase;
-	background-color: rgb(172,226,88);
+	margin-top: 80px;
+	margin-bottom: 40px;
+	font-size: 30px;
+	background-color: rgb(182, 215, 150);
+	color: #333333;
 	display:block;
 }
 
 article h2 {
+	font-size: 25px;
 	padding-left: 12px;
 }
 
