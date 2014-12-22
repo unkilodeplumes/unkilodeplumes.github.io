@@ -2,7 +2,7 @@ body{
 	margin: 0px 0px; /* Marge hautes et basses 0px et marges gauche et droite 0 */
 	padding: 0 ;
 	text-align: left ;
-	background: url(fond-blanc3.png) repeat fixed ;
+	background: url(../images/fond-blanc.png) repeat fixed ;
 }
 	
 div#logo{
@@ -35,7 +35,7 @@ div#menu{
 article {
 	/*font: 20px "Trebuchet MS" ;*/
 	clear: both;
-	background-image: url(noise3.png);
+	background-image: url(../images/noise.png);
 	background-color: rgba(255,255,255,0.5);
 	font-size: 18px;
 	padding: 20px 20px ;
@@ -75,7 +75,6 @@ article {
 	padding: 5px 0px;
 	margin: 0px 0;
 	margin-left: 10px;
-	/*background: url(menu-border/border1.png) no repeat;*/
 	font-family: "Lucida Sans Unicode", sans-serif;
 	font-size: 1.2rem;
 	text-align: left;
