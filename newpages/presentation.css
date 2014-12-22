@@ -53,7 +53,7 @@ article h1{
 
 article h2 {
 	font-size: 25px;
-	padding-left: 12px;
+	padding: 0 12px;
 }
 
 article p {
