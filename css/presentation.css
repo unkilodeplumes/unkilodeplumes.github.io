@@ -7,9 +7,14 @@ body{
 	background: url(../images/fond-blanc.png) repeat fixed;
 }
 
+a {
+	color: #4A913C;
+	text-decoration: none;
+}
+
 strong{
-font-size:22px;
-color:rgb(68, 139, 0);
+	font-size:22px;
+	color:rgb(68, 139, 0);
 }
 
 #page {
