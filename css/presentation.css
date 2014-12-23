@@ -56,8 +56,8 @@ article h2 {
 	padding: 0 12px;
 }
 
-article p {
-	padding: 5px 20px 5px 20px;
+article p, article ol, article ul {
+	padding: 3px 20px 3px 20px;
 	font-weight: 300;
 }
 
