@@ -40,24 +40,24 @@ article {
 }
 	
 article h1{
-	padding: 10px 10px 4px 16px;
+	padding: 10px 16px 4px 16px;
 	font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
 	text-transform : uppercase;
 	margin-top: 80px;
 	margin-bottom: 40px;
-	font-size: 30px;
+	font-size: 28px;
 	background-color: rgb(182, 215, 150);
 	color: #333333;
 	display:block;
 }
 
 article h2 {
-	font-size: 25px;
-	padding: 0 12px;
+	font-size: 24px;
+	padding: 0 12px 3px 12px;
 }
 
 article p, article ol, article ul {
-	padding: 3px 20px 3px 20px;
+	padding: 0 20px 3px 20px;
 	font-weight: 300;
 }
 
