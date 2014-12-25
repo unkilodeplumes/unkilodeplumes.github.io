@@ -126,4 +126,7 @@ div#cadre2{
 .f_left {
 	float:left;
 }
-	
+
+#isso-thread > h4 {
+    visibility: hidden;
+}
