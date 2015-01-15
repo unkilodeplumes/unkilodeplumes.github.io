@@ -2,7 +2,6 @@ body{
 	margin: 0;
 	padding: 0;
 	text-align: left;
-	font-family: Georgia, Times, "Times New Roman", serif;
 	font-size: 20px;
 	background: url(../images/fond-blanc.png) repeat fixed;
 }
@@ -64,6 +63,7 @@ article h2 {
 
 article p {
 	padding: 0 20px 3px 20px;
+	font-family: Georgia, Times, "Times New Roman", serif;
 }
 
 article ol, article ul {
